@@ -1,0 +1,54 @@
+{
+    "workbench.colorTheme": "Adwaita Dark & default syntax highlighting",
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.type": "toggles",
+    "workbench.tree.indent": 14,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.activityBar.location": "top",
+
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.scrollWithEditor": false,
+    "editor.stickyScroll.maxLineCount": 1,
+    "editor.stickyScroll.enabled": false,
+    "editor.rulers": [85],
+    "editor.fontFamily": "'JetBrains Mono NL', 'monospace', monospace",
+    "editor.lineHeight": 1.4,
+
+    "breadcrumbs.enabled": false,
+
+    "telemetry.telemetryLevel": "crash",
+
+    "update.mode": "none",
+
+    "window.zoomLevel": 0.5,
+    "window.zoomPerWindow": false,
+    "window.customTitleBarVisibility": "auto",
+    "window.title": "${dirty} ${appName} ${separator} ${rootName}",
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
+
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[javascriptreact]": {
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2
+    },
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.renderWhitespace": "all"
+    },
+}
