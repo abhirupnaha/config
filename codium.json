@@ -22,8 +22,6 @@
 
     "breadcrumbs.enabled": false,
 
-    "telemetry.telemetryLevel": "crash",
-
     "update.mode": "none",
 
     "window.zoomLevel": 0.5,
@@ -51,7 +49,4 @@
         "editor.tabSize": 2,
         "editor.renderWhitespace": "all"
     },
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "redhat.telemetry.enabled": false,
-    "chat.commandCenter.enabled": false,
 }
