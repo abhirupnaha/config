@@ -1,0 +1,14 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/github_dark_high_contrast.toml"
+]
+
+[window]
+padding = {x = 6, y = 6}
+dynamic_padding = true
+decorations = "None"
+opacity = 0.8
+startup_mode = "Maximized"
+
+[font]
+size = 12
